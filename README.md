@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luisa223 :partying_face: 	
-- 👀 I’m mostly interested in Robotics, Software Development and Augemented Reality. But I like learning new things about all kinds of technology in general!
+- 👀 Interested in Robotics, Software Development and Augmented Reality. 
 - 📫 How to reach me via Mail: [lmayershofer@gmail.com](mailto:lmayershofer@gmail.com)
 
 <!---
